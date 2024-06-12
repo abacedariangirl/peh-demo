@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://abacedariangirl.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /peh-demo
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/abacedariangirl/peh-demo
 
 ##########
 # SITE SETTINGS
@@ -60,7 +60,7 @@ organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
- noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
