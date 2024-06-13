@@ -1,7 +1,7 @@
 ---
 title: Timeline
 layout: timeline
-permalink: /timeline.html
+permalink: 
 timeline-field: location
 ---
 
