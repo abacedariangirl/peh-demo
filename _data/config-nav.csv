@@ -1,12 +1,14 @@
 display_name,stub,dropdown_parent
 Home,/,
-Trips,/Trips.html,
-1888,/1888Trip.html,Trips
-1897,/1897Trip.html,Trips
+Travel,,
+Trips,/Trips.html,Travel
+1888,/1888Trip.html,Travel
+1897,/1897Trip.html,Travel
 Browse,/browse.html,
 Subjects,/subjects.html,
 Locations,/locations.html,
 Map,/map.html,
-About,/about.html,
+About,,
 O'Reillys,/family.html,About
 Photographers,/photographers.html,About
+About the Project,/about.html,About
