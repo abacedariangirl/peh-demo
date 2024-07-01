@@ -1,0 +1,17 @@
+---
+title: 1897 Trip
+layout: page
+permalink: 
+# include CollectionBuilder info at bottom
+credits: true
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
+# can include photos that are in objects but not collection /objects/filename.jpg
+# can paste iframe code right into the markdown
+---
+
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+
+https://storymap.knightlab.com/edit/?id=1897-trip
+
+<iframe src="https://uploads.knightlab.com/storymapjs/52f7021d460f1e872478282f349156cc/1897-trip/index.html" frameborder="0" width="100%" height="800"></iframe>
