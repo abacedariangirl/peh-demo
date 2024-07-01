@@ -1,7 +1,7 @@
 ---
 title: Trips
-layout: page
-permalink: 
+layout: about
+permalink: /Trips.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
@@ -12,8 +12,23 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
+{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+
+## About CollectionBuilder CSV
+
+https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html
+
 Kathleen received her education at Angela College, Victoria. From 1883 to 1885 she attended Lady Murry's School in Kensington, London England. https://drive.google.com/file/d/1wz_PJ7gykMwzTaxU5dY4jxkcUao46FAJ/view?usp=drive_link 
 
 1888 Family trip https://drive.google.com/file/d/15FlK1hetR24gYWKebi4Z59HNGcelFa_H/view
 
 In 1897 she was presented at the drawing room reception to the Lord Lieutenant and Countess Cadogan in Dublin Eire
+
+<div class="row">
+    <div class="col mb-3">
+      <div class="col-body">
+        <a href="/1888Trip.html" title="Learn about the 1888 Trip">
+        {% include feature/jumbotron.html objectid="roma_01" heading="1888"%}
+        </div>
+    </div>
+ </div>

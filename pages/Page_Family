@@ -1,7 +1,7 @@
 ---
 title: Meet the O'Reillys
-layout: page
-permalink: 
+layout: about
+permalink: /family.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
