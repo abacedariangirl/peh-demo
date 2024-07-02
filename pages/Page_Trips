@@ -31,5 +31,9 @@ In 1897 she was presented at the drawing room reception to the Lord Lieutenant a
         <a href="/peh-demo/1888Trip.html" title="Learn about the 1888 Trip">
         {% include feature/jumbotron.html objectid="roma_01" heading="1888"%}
         </div>
+         <div class="col-body">
+        <a href="/peh-demo/1897Trip.html" title="Learn about the 1897 Trip">
+        {% include feature/jumbotron.html objectid="roma_01" heading="1897"%}
+        </div>
     </div>
  </div>
