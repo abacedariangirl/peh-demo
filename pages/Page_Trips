@@ -9,31 +9,20 @@ credits: false
 # can include photos that are in objects but not collection /objects/filename.jpg
 # can paste iframe code right into the markdown
 ---
-
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+<a href="/peh-demo/1884Trip.html" title="Learn about the 1884 Trip">
+ {% include feature/jumbotron.html objectid="roma_01" heading="1884" width=50 %} </a>
+ Kathleen received her education at Angela College, Victoria. From 1883 to 1885 she attended Lady Murry's School in Kensington, London England. https://drive.google.com/file/d/1wz_PJ7gykMwzTaxU5dY4jxkcUao46FAJ/view?usp=drive_link 
 
-## About CollectionBuilder CSV
+<a href="/peh-demo/1888Trip.html" title="Learn about the 1888 Trip">
+ {% include feature/jumbotron.html objectid="roma_01" heading="1888"%} </a>
+ 1888 Family trip https://drive.google.com/file/d/15FlK1hetR24gYWKebi4Z59HNGcelFa_H/view
 
-Options:
-https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html
-
-Kathleen received her education at Angela College, Victoria. From 1883 to 1885 she attended Lady Murry's School in Kensington, London England. https://drive.google.com/file/d/1wz_PJ7gykMwzTaxU5dY4jxkcUao46FAJ/view?usp=drive_link 
-
-1888 Family trip https://drive.google.com/file/d/15FlK1hetR24gYWKebi4Z59HNGcelFa_H/view
-
+<a href="/peh-demo/1897Trip.html" title="Learn about the 1897 Trip">
+{% include feature/jumbotron.html objectid="roma_01" heading="1897"%} </a>
 In 1897 she was presented at the drawing room reception to the Lord Lieutenant and Countess Cadogan in Dublin Eire
 
-<div class="row">
-    <div class="col mb-3">
-      <div class="col-body">
-        <a href="/peh-demo/1888Trip.html" title="Learn about the 1888 Trip">
-        {% include feature/jumbotron.html objectid="roma_01" heading="1888"%}
-        </div>
-         <div class="col-body">
-        <a href="/peh-demo/1897Trip.html" title="Learn about the 1897 Trip">
-        {% include feature/jumbotron.html objectid="roma_01" heading="1897"%}
-        </div>
-    </div>
- </div>
+<a href="/peh-demo/1914Trip.html" title="Learn about the 1914 Trip">
+{% include feature/jumbotron.html objectid="roma_01" heading="1914"%} </a>
+
