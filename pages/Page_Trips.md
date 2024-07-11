@@ -11,8 +11,11 @@ credits: false
 ---
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-<a href="/peh-demo/1884Trip.html" title="Learn about the 1884 Trip">
- {% include feature/jumbotron.html objectid="roma_01" heading="1884" width=50 %} </a>
+# 1884
+
+
+ [{% include feature/jumbotron.html objectid="roma_01" heading="1884" width=50 %}](/peh-demo/1884Trip.html "Learn about the 1884 Trip")
+
  Kathleen received her education at Angela College, Victoria. From 1883 to 1885 she attended Lady Murry's School in Kensington, London England. https://drive.google.com/file/d/1wz_PJ7gykMwzTaxU5dY4jxkcUao46FAJ/view?usp=drive_link 
 
 <a href="/peh-demo/1888Trip.html" title="Learn about the 1888 Trip">
