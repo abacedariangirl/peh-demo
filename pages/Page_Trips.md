@@ -14,7 +14,7 @@ credits: false
 # 1884
 
 
- [{% include feature/jumbotron.html objectid="roma_01" heading="1884" width=50 %}](/peh-demo/1884Trip.html "Learn about the 1884 Trip")
+ [{% include feature/jumbotron.html objectid="roma_01" heading="1884" width=50 %}](https://abacedariangirl.github.io/peh-demo/1884Trip.html "Learn about the 1884 Trip")
 
  Kathleen received her education at Angela College, Victoria. From 1883 to 1885 she attended Lady Murry's School in Kensington, London England. https://drive.google.com/file/d/1wz_PJ7gykMwzTaxU5dY4jxkcUao46FAJ/view?usp=drive_link 
 
