@@ -10,6 +10,6 @@ credits: false
 # can paste iframe code right into the markdown
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" heading="1897 Trip" text=false%}
 Trip
 <iframe src="https://uploads.knightlab.com/storymapjs/52f7021d460f1e872478282f349156cc/1897-trip/index.html" frameborder="0" width="100%" height="800"></iframe>

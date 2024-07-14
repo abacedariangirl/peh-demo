@@ -10,6 +10,6 @@ credits: false
 # can paste iframe code right into the markdown
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" heading="1914 Trip" text=false%}
 
 

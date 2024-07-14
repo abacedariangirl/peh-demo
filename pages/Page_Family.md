@@ -10,7 +10,7 @@ credits: false
 # can paste iframe code right into the markdown
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" heading="Meet the O'Reillys" text=false%}
 
 {% include feature/image.html objectid="https://epe.lac-bac.gc.ca/100/205/301/ic/cdc/peh/gossip/img_goss/tree.jpg" width="75" alt="O'Reilly-Trutch Family Tree" %}
 

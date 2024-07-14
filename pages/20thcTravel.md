@@ -10,12 +10,9 @@ credits: false
 # can paste iframe code right into the markdown
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" text=false%}
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" heading="20th Century Travel" text=false%}
 
-# 20th Century Travel
-
-
-## Thomas Cook & Sons
-## Cars
-## Steamboats
-## Trains
+# Thomas Cook & Sons
+# Cars
+# Steamboats
+# Trains
