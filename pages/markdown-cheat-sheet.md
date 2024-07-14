@@ -1,3 +1,15 @@
+---
+title: Cheatsheet
+layout: about
+permalink: /cheatsheet.html
+# include CollectionBuilder info at bottom
+credits: false
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
+# can include photos that are in objects but not collection /objects/filename.jpg
+# can paste iframe code right into the markdown
+---
+
 # Markdown Cheat Sheet
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
