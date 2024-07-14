@@ -14,6 +14,8 @@ credits: false
 
 # 20th Century Travel
 
+{% include feature/card.html text="Some text" header="Photo Album" objectid="roma_01" width="25" %}
+
 ## Thomas Cook & Sons
 ## Cars
 ## Steamboats
