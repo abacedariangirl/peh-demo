@@ -34,3 +34,8 @@ Sommer’s photographs of Pompeii might have been commissioned John Henry Parker
 
 [^1]: Paoli, Silvia. 2008. "Sommer, Giorgio (1834-1914)." In Encyclopedia of Nineteenth Century Photographers, edited by John Hannavy, 1310-1312. Taylor & Francis.
 
+# Fotografia dell'Emilia
+
+TBA
+
+{% include feature/image.html objectid="purple_43" width="25" %}
