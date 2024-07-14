@@ -57,3 +57,9 @@ TBA
 TBA
 
 {% include feature/image.html objectid="barcelona_01" width="25" %}
+
+# Centro Fotografico
+
+TBA
+
+{% include feature/image.html objectid=barcelona_03" width="25" %}
