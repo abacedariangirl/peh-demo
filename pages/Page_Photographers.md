@@ -21,7 +21,7 @@ The second photographer is Romualdo Moscioni. The PEH collection has a red bound
 
 # Giorgio Sommer
 
-The first is Giorgio Sommer (1834-1914). The PEH collection has a large black bound photo album. His work began in the 1850s. He had a preference for stereoscopic formates and cates de visite which he abandoned after the 1860s. Later favoured formats include ‘medium’ 21 b 27cm and ‘large’ 28 by 38cm.
+The first is Giorgio Sommer (1834-1914). The PEH collection has a large black bound photo album. His work began in the 1850s. He had a preference for stereoscopic formates and cates de visite which he abandoned after the 1860s. Later favoured formats include ‘medium’ 21 b 27cm and ‘large’ 28 by 38cm.[^1]
 
 The photographs that I was examining fell into the later category, and so can be assumed to have a date after the 1860s. After his death, his glass negatives were destroyed (around 1916). Therefore, the prints had to be made before then.
 
@@ -32,25 +32,35 @@ Sommer’s photographs of Pompeii might have been commissioned John Henry Parker
 {% include feature/image.html objectid="purple_03" width="25" %}
 {% include feature/image.html objectid="purple_07" width="25" %}
 
-Paoli, Silvia. 2008. "Sommer, Giorgio (1834-1914)." In Encyclopedia of Nineteenth Century Photographers, edited by John Hannavy, 1310-1312. Taylor & Francis.
+[^1]: Paoli, Silvia. 2008. "Sommer, Giorgio (1834-1914)." In Encyclopedia of Nineteenth Century Photographers, edited by John Hannavy, 1310-1312. Taylor & Francis.
 
 # Fotografia dell'Emilia
+
+TBA
 
 {% include feature/image.html objectid="purple_43" width="25" %}
 
 # Photographia Nessi - Como
 
+TBA
+
 {% include feature/image.html objectid="purple_55" width="25" %}
 
 # Ed. Alinari
+
+TBA
 
 {% include feature/image.html objectid="red_36" width="25" %}
 
 # A. Esplagas
 
+TBA
+
 {% include feature/image.html objectid="barcelona_01" width="25" %}
 
 # Centro Fotografico
+
+TBA
 
 {% include feature/image.html objectid=barcelona_03" width="25" %}
 
@@ -63,38 +73,56 @@ The final photographer named is Gaetano Pedo. His stamp appears on a single loos
 
 # Garcin
 
+TBA
+
 {% include feature/image.html objectid="misc_01" width="25" %}
 
 # Sophas Williams
 
+TBA
+
 {% include feature/image.html objectid="misc_06" width="25" %}
 
 # G. J. Phot
+
+TBA
 
 {% include feature/image.html objectid="montecarlo_03" width="25" %}
 {% include feature/image.html objectid="nice_01" width="25" %}
 
 # Van. Lint.
 
+TBA
+
 {% include feature/image.html objectid="pisa_03" width="25" %}
 
 # G. Pisano
+
+TBA
 
 {% include feature/image.html objectid="pisa_04" width="25" %}
 
 # Schroeder & Cie, Zurich
 
+TBA
+
 {% include feature/image.html objectid="swiss_02" width="25" %}
 
 # Photoglob
+
+TBA
 
 {% include feature/image.html objectid="swiss_05" width="25" %}
 
 # T. Filippi & C. / Tomaso Filippi
 
+TBA
+
 {% include feature/image.html objectid="venezia_03" width="25" %}
 {% include feature/image.html objectid="venezia_04" width="25" %}
 
 # Lawrence, William
+
+TBA
 
 {% include feature/image.html objectid="phad_14" width="25" %}
