@@ -23,7 +23,7 @@ The second photographer is Romualdo Moscioni. The PEH collection has a red bound
 
 # Giorgio Sommer
 
-The first is Giorgio Sommer (1834-1914). The PEH collection has a large black bound photo album. His work began in the 1850s. He had a preference for stereoscopic formates and cates de visite which he abandoned after the 1860s. Later favoured formats include ‘medium’ 21 b 27cm and ‘large’ 28 by 38cm.[^1]
+The first is Giorgio Sommer (1834-1914). The PEH collection has a large black bound photo album. His work began in the 1850s. He had a preference for stereoscopic formates and cates de visite which he abandoned after the 1860s. Later favoured formats include ‘medium’ 21 b 27cm and ‘large’ 28 by 38cm.
 
 The photographs that I was examining fell into the later category, and so can be assumed to have a date after the 1860s. After his death, his glass negatives were destroyed (around 1916). Therefore, the prints had to be made before then.
 
@@ -34,7 +34,7 @@ Sommer’s photographs of Pompeii might have been commissioned John Henry Parker
 {% include feature/card.html text="Some text" header="Naples" objectid="purple_03" width="25" %}
 {% include feature/card.html text="Some text" header="Pompeii" objectid="purple_07" width="25" %}
 
-[^1]: Paoli, Silvia. 2008. "Sommer, Giorgio (1834-1914)." In Encyclopedia of Nineteenth Century Photographers, edited by John Hannavy, 1310-1312. Taylor & Francis.
+Paoli, Silvia. 2008. "Sommer, Giorgio (1834-1914)." In Encyclopedia of Nineteenth Century Photographers, edited by John Hannavy, 1310-1312. Taylor & Francis.
 
 # Fotografia dell'Emilia
 
