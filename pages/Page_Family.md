@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/image.html objectid="https://epe.lac-bac.gc.ca/100/205/301/ic/cdc/peh/gossip/img_goss/tree.jpg" width="75" alt="O'Reilly-Trutch Family Tree" %}
+
 
 {% include feature/nav-menu.html sections="Peter O'Reilly;Catherine O'Reilly (nee Trutch);Frank O'Reilly;Kathleen O'Reilly;Arthur "Jack" O'Reilly;Joseph Trutch;John Trutch;Josephine Pinder" %}
 
