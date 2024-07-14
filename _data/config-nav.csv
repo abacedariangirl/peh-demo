@@ -1,14 +1,19 @@
 display_name,stub,dropdown_parent
 Home,/,
+Meet the...,,
+O'Reillys,/family.html,Meet
+Photographers,/photographers.html,Meet
 Travel,,
+20th Century Travel,/Travel.html,Travel
 Trips,/Trips.html,Travel
+1888,/1884Trip.html,Travel
 1888,/1888Trip.html,Travel
 1897,/1897Trip.html,Travel
+1888,/1914Trip.html,Travel
 Browse,/browse.html,
 Subjects,/subjects.html,
 Locations,/locations.html,
 Map,/map.html,
-About,,
-O'Reillys,/family.html,About
-Photographers,/photographers.html,About
+About,
+Dating Photographs,/dating.html,About
 About the Project,/about.html,About
