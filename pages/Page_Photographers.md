@@ -63,3 +63,66 @@ TBA
 TBA
 
 {% include feature/image.html objectid="barcelona_03" width="25" %}
+
+# Gaetano Pedo
+
+The final photographer named is Gaetano Pedo. His stamp appears on a single looseleaf photo of Genoa. An advertisement in the PEH collections says his business was established in 1874. The stamp on the accompanying photo of Genoa says it was purchased in Rome at a Via Sistina shop. Unfortunately, Gaetano Pedo seems to have been less studied by English scholars and so I am unable to put a date to exactly when he was at this location. Geographically though, the Via Condotti and the Via Sistina are almost connected perpendicularly, with only the famous Spanish Steps, Spanish Square and the Church Trinità dei Monti between them. 
+
+{% include feature/image.html objectid="genova_01" width="25" %}
+{% include feature/image.html objectid="phad_40" width="25" %}
+
+# Garcin
+
+TBA
+
+{% include feature/image.html objectid="misc_01" width="25" %}
+
+# Sophas Williams
+
+TBA
+
+{% include feature/image.html objectid="misc_06" width="25" %}
+
+# G. J. Phot
+
+TBA
+
+{% include feature/image.html objectid="montecarlo_03" width="25" %}
+{% include feature/image.html objectid="nice_01" width="25" %}
+
+# Van. Lint.
+
+TBA
+
+{% include feature/image.html objectid="pisa_03" width="25" %}
+
+# G. Pisano
+
+TBA
+
+{% include feature/image.html objectid="pisa_04" width="25" %}
+
+# Schroeder & Cie, Zurich
+
+TBA
+
+{% include feature/image.html objectid="swiss_02" width="25" %}
+
+# Photoglob
+
+TBA
+
+{% include feature/image.html objectid="swiss_05" width="25" %}
+
+# T. Filippi & C. / Tomaso Filippi
+
+TBA
+
+{% include feature/image.html objectid="venezia_03" width="25" %}
+{% include feature/image.html objectid="venezia_04" width="25" %}
+
+# Lawrence, William
+
+TBA
+
+{% include feature/image.html objectid="phad_14" width="25" %}
