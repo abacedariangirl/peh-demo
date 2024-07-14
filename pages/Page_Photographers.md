@@ -45,3 +45,9 @@ TBA
 TBA
 
 {% include feature/image.html objectid="purple_55" width="25" %}
+
+# Ed. Alinari
+
+TBA
+
+{% include feature/image.html objectid="red_36" width="25" %}
