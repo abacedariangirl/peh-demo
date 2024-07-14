@@ -62,4 +62,4 @@ TBA
 
 TBA
 
-{% include feature/image.html objectid=barcelona_03" width="25" %}
+{% include feature/image.html objectid="barcelona_03" width="25" %}
