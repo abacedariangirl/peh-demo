@@ -14,6 +14,8 @@ credits: false
 
 {% include feature/image.html objectid="https://epe.lac-bac.gc.ca/100/205/301/ic/cdc/peh/gossip/img_goss/tree.jpg" width="75" alt="O'Reilly-Trutch Family Tree" %}
 
+{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+
 # The O'Reillys
 
 ## Peter O'Reilly
