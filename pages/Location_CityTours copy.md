@@ -12,6 +12,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" heading="Location Tours" text=false%}
 
-<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/1i4aye3"></iframe>
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/1i4aye3"></iframe>  
 
-<iframe src="https://www.arcgis.com/apps/instant/exhibit/index.html?appid=750d012512904cea95484755b71a9287" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+
+<iframe src="https://www.arcgis.com/apps/instant/exhibit/index.html?appid=750d012512904cea95484755b71a9287" width="800" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
