@@ -1,7 +1,7 @@
 ---
-title: 20th Century Travel
+title: 19th Century Travel
 layout: about
-permalink: /20Travel.html
+permalink: /Travel.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
@@ -10,10 +10,9 @@ credits: false
 # can paste iframe code right into the markdown
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" heading="20th Century Travel" text=false%}
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" heading="19th Century Travel" text=false%}
 
-# Cars
-
-# Motor Ships
-
+# Thomas Cook & Sons
+# Carriages
+# Steamboats
 # Trains
