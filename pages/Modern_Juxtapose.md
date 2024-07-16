@@ -1,5 +1,5 @@
 ---
-title: Modern Juxatpose
+title: Modern Views
 layout: about
 permalink: /modern.html
 # include CollectionBuilder info at bottom
@@ -10,6 +10,6 @@ credits: false
 # can paste iframe code right into the markdown
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" heading="Modern Juxatpose" text=false%}
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" heading="Modern Views" text=false%}
 
 
