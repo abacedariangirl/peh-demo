@@ -23,9 +23,6 @@ credits: false
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" heading="Location Tours" text=false%}
 
-
-
-
-{% include feature/accordion.html title1="Example section" text1={{example1}} title2="Section two" text2={{example2}} title3="Section three" text3={{example3}} %}
+{% include feature/accordion.html title1="Example section" text1="{{example1}}" title2="Section two" text2="{{example2}}" title3="Section three" text3="{{example3}}" %}
 
 
